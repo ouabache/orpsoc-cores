@@ -1,0 +1,11 @@
+CAPI=1
+[main]
+description = Socgen Bus Fun Models
+
+
+
+[provider]
+name = github
+user = ouabache
+repo = socgen_BFMs
+

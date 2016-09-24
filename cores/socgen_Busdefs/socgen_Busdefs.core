@@ -1,0 +1,11 @@
+CAPI=1
+[main]
+description = Socgen Bus defs
+
+
+
+[provider]
+name = github
+user = ouabache
+repo = socgen_Busdefs
+

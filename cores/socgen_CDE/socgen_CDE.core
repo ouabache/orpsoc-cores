@@ -1,0 +1,10 @@
+CAPI=1
+[main]
+description = Socgen CDE lib
+
+
+[provider]
+name = github
+user = ouabache
+repo = socgen_CDE
+
